@@ -3,4 +3,4 @@ Name: Hans klok
 Age:  25 en een half
 Code: Php
 
-Welcome to the Php repo. hoi
+Welkome to the Php repo. hoi
