@@ -1,1 +1,4 @@
-Test
+ik had eerst met de normale git commands gedaan. 
+
+"git add ." en "git commit -m" ging goed. pas bij "git pull" gaf hij aan dat hij niet kon mergen
+Hiervoor kon ik zelf veranderen hoe ik het wou commiten en door pushen naar wat git zelf niet kon mergen.
